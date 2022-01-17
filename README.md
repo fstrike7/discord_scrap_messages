@@ -1,2 +1,7 @@
 # discord_scrap_messages
-Script de Node para obtener todos los mensajes de un canal.
+Modulo de Node.js para obtener todos los mensajes de un canal en formato JSON.
+Node.js module to get all the messages from a Discord channel in JSON format.
+
+## Uso
+getChannelMessages(channel_id)
+
